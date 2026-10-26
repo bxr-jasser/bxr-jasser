@@ -3,42 +3,50 @@
 **Software Development & Applied AI**  
 Data Science Master’s Student · Tunisia
 
-[LinkedIn](https://www.linkedin.com/in/mehri-jasser-060896365)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat&logo=firebase&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-24292F?style=flat&logo=linux&logoColor=white)
 
-I’m pursuing a Master’s in Data Science and Artificial Intelligence at ESGITECH, with a background in embedded systems and IoT. I enjoy understanding the whole system: how the software works, how the data moves, and how the pieces run together.
+I’m pursuing a Master’s in **Data Science and Artificial Intelligence at ESGITECH**, following a background in embedded systems and IoT.
 
-My interests span **software engineering, applied AI, and DevOps**, with a particular interest in healthcare and agriculture.
+I’m interested in the complete journey of a technical solution: understanding the problem, building the software, working with data, and getting the system running reliably. My interests span **software engineering, applied AI, computer vision, and DevOps**.
 
-## Current focus
+## AI & Computer Vision
 
-| Area | Tools and topics |
+| Project | Technical focus | What it will do | Status |
+| :--- | :--- | :--- | :--- |
+| **PlantScope** — Plant Disease Identification | Python · Image classification · Connected app | Help identify visible signs of plant disease from leaf photos. A connected app will support photo capture or upload, predicted categories, confidence scores, and scan history. | **Planned** |
+| **RoadLens** — Road Damage Detection | Python · Object detection · Computer vision | Locate potholes and cracks in road images, with bounding-box visualizations and reviewable results in an inspection dashboard. | **Planned** |
+
+**Development priorities:** reproducible experiments, evaluation on unseen images, documented limitations, and inference APIs. PlantScope will explore performance on real-world leaf photos; RoadLens will connect model inference with containerization and automated checks.
+
+## Software & DevOps
+
+| Area | Tools & focus |
 | :--- | :--- |
-| Software development | Python, JavaScript/TypeScript, Flutter, React, Firebase |
-| Data & AI | Data analysis, machine learning and deep learning foundations |
-| Systems & DevOps | Linux, VMware, virtual networking, containerization and distributed systems |
+| **Software development** | Python, JavaScript/TypeScript, Flutter, React |
+| **Data & integration** | Firebase, databases, data processing |
+| **Systems** | Linux, VMware, virtual networking |
+| **AI foundations** | Machine learning, deep learning, model evaluation |
+| **Current learning** | Containerization, distributed systems, DevOps practices |
 
-## Selected work
+Through my next projects, I aim to connect model development with APIs, reproducible environments, automated checks, and deployment.
 
-### PlantScope — Plant Disease Identification
-**Planned project · Image classification · Python · Connected application**
+## Education
 
-A planned AI model to help identify visible signs of plant disease from leaf images, connected to an app for taking or uploading photos and reviewing predictions.
+| Programme | Institution | Status |
+| :--- | :--- | :--- |
+| **Professional Master’s in Data Science and Artificial Intelligence** | ESGITECH | In progress |
+| **Bachelor’s in Computer Engineering — Embedded Systems & IoT** | ISIMA, University of Monastir | Completed |
 
-The intended workflow includes a predicted disease category, a confidence score, and a history of previous scans. Model evaluation will focus on performance across disease classes and on photos captured outside the training dataset.
+## Certifications
 
-### RoadLens — Road Damage Detection
-**Planned project · Computer vision · Object detection · Python**
+**Fundamentals of Deep Learning** — NVIDIA  
+Issued November 2025
 
-A planned computer vision model for locating potholes and cracks in road images, with annotated results displayed in an inspection dashboard.
+## Let’s Connect
 
-The intended workflow includes image upload, bounding-box visualizations, and reviewable detection results. The project will connect model evaluation with an inference API, containerization, and automated checks to explore both AI engineering and DevOps.
+I’m open to **internships, junior opportunities, and collaboration** across software development, data and AI, and DevOps. I’m particularly interested in practical applications in agriculture, healthcare, and infrastructure.
 
-## Education & learning
-
-- **Professional Master’s in Data Science and Artificial Intelligence** — ESGITECH, in progress.
-- **Bachelor’s in Computer Engineering, Embedded Systems and IoT** — ISIMA, University of Monastir.
-- **Fundamentals of Deep Learning** — NVIDIA, November 2025.
-
-I’m open to **internships, junior opportunities, and collaboration** across software development, data and AI, and DevOps.
-
-[Let’s connect on LinkedIn →](https://www.linkedin.com/in/mehri-jasser-060896365)
+[Connect with me on LinkedIn →](https://www.linkedin.com/in/mehri-jasser-060896365)
